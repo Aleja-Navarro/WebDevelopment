@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+	padding: 5vw;
+	background-color: #616A6B;
+}
+h1{
+	color: #F7DC6F;
+	font-family:'Sacramento';
+	text-align: center;
+	font-size: 3vw;
+}
+h2{
+	color: #F7DC6F;
+	font-family:'Sacramento';
+	text-align:left;
+	font-size: 3vw;
+
+}
+p{
+	color: #D5DBDB;
+	font-family:'Raleway';
+	text-align:justify;
+	font-size: 2vw;
+}
+ul{
+	color: #D5DBDB;
+	font-family:'Raleway';
+	text-align:justify;
+	font-size: 2vw;
+}
+table{color: ;
+	font-family:'Raleway';
+	width: 100vw;
+	border-collapse: collapse;
+
+}
+th{
+	color: #D5DBDB;
+	font-family:'Raleway';
+	text-align: left;
+	padding: 8px;
+	font-size: 2vw;
+	border-bottom: 0.1vw solid gray;
+
+}
+td{
+	color: #D5DBDB;
+	font-family:'Raleway';
+	text-align: left;
+	padding: 8px;
+	font-size: 2vw;
+	border-bottom: 0.1vw solid gray;
+
+}
+tr:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+img{
+	text-align: center;
+
+}
+#Portada{
+	background-image: url('https://www.eltiempo.com/files/image_640_428/files/crop/uploads/2017/03/19/58cefdd253723.r_1489985492741.0-244-1333-911.jpeg');
+	width: 80vw;
+	height: 40vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.Alex{
+	margin: 3vw;
+}
